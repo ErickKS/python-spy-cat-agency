@@ -28,7 +28,6 @@ class Settings(BaseSettings):
     )
     DOMAIN: str = 'localhost'
     ENVIRONMENT: Literal["local", "staging", "production"] = "local"
-    JWT_SECRET_KEY: str
 
     @computed_field
     @property
