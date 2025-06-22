@@ -2,6 +2,9 @@
 
 A API developed in FastAPI for managing the operations of the Spy Cat Agency (SCA), including spy cats, their missions, targets, and notes.
 
+🔗 Related Repository
+Frontend (Next.js): [Spy Cat – Frontend](https://github.com/ErickKS/nestjs-spy-cat-agency)
+
 ## 🚀 Features
 
 - [X] Spy Cats CRUD: create, update, delete, list, and view cats
