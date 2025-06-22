@@ -9,8 +9,6 @@ from src.domain.cat.models import Cat
 from src.domain.target.models import Target
 from src.domain.mission.models import Mission
 
-print(Mission.__table__)
-
 from alembic import context
 
 # this is the Alembic Config object, which provides
